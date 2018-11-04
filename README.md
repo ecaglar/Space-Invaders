@@ -1,6 +1,6 @@
 # SpaceInvadersClone
 
-It is an old Space Invaders clone game implemented using C++ and SDL
+Space Invaders clone implemented with SDL and C++. Covers all the core game dynamics such as audio,input,animation,HUD,etc.
 
 https://www.behance.net/gallery/3676979/Space-Invaders-Clone
 
